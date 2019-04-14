@@ -1,6 +1,6 @@
 # A Spotify App Clone
 
-This app is buitl on Ruby on Rails the purpose of this project is to sharpen my skills on Ruby and Ruby on Rails Framework.
+This app is built on Ruby on Rails the purpose of this project is to sharpen my skills on Ruby and Ruby on Rails Framework.
 
 This app is built under the following specs:
 
