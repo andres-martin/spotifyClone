@@ -1,24 +1,15 @@
-# README
+# A Spotify App Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is buitl on Ruby on Rails the purpose of this project is to sharpen my skills on Ruby and Ruby on Rails Framework.
 
-Things you may want to cover:
+This app is built under the following specs:
 
-* Ruby version
+* Ruby version: 2.5.3
 
-* System dependencies
+* Configuration:
+  - Please refer to Gemfile file to know all the dependencies and gems used.
 
-* Configuration
+* Database creation: 2019-04-14
 
-* Database creation
+* Database initialization 2019-04-14
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
