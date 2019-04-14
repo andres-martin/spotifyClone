@@ -5,6 +5,7 @@ This app is built on Ruby on Rails the purpose of this project is to sharpen my 
 This app is built under the following specs:
 
 * Ruby version: 2.5.3
+* Ruby on Rails version: 5.2.2
 
 * Configuration:
   - Please refer to Gemfile file to know all the dependencies and gems used.
