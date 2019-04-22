@@ -1,2 +1,15 @@
-<h1>Artists#index</h1>
-<p>Find me in app/views/artists/index.html.erb</p>
+<div class="container mt-3">
+  <% @artists.each do |artist|%>
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card text-center" style="width: 18rem;">
+          <img src="<%= artist.image_url %>" class="card-img-top" alt="artist image">
+          <div class="card-body">
+            <h5 class="card-title"><%= artist.name %></h5>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  <% end %>
+</div>
